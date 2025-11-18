@@ -53,7 +53,7 @@ LOG_FILE = 'logs/bot.log'
 # ==================== BOT KONSTANTALARI ====================
 
 # Client code boshlang'ich qiymati
-CLIENT_CODE_START = 586
+CLIENT_CODE_START = 587
 CLIENT_CODE_PREFIX = "AKB"
 
 # Pasport muddati (yillar)
