@@ -6721,3 +6721,26 @@ aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError
 2025-11-18 12:29:15,151 - __main__ - INFO - Bot is shutting down...
 2025-11-18 12:29:15,407 - aiogram.dispatcher - INFO - Polling stopped for bot @onewaytest_bot id=8359186333 - 'TESTBOT'
 2025-11-18 12:29:15,407 - __main__ - INFO - Bot stopped by user
+2025-11-18 13:06:09,904 - __main__ - INFO - Starting polling...
+2025-11-18 13:06:09,904 - __main__ - INFO - Bot is starting...
+2025-11-18 13:06:09,923 - database.db_manager - INFO - Database initialized successfully
+2025-11-18 13:06:09,923 - __main__ - INFO - Database initialized
+2025-11-18 13:06:09,923 - __main__ - INFO - Bot started successfully!
+2025-11-18 13:06:09,923 - aiogram.dispatcher - INFO - Start polling
+2025-11-18 13:06:10,049 - aiogram.dispatcher - INFO - Run polling for bot @akbcargo_bot id=7871329922 - 'AKB CARGO BOT'
+2025-11-18 13:07:51,799 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-18 13:07:51,799 - __main__ - INFO - Bot is shutting down...
+2025-11-18 13:07:52,055 - aiogram.dispatcher - INFO - Polling stopped for bot @akbcargo_bot id=7871329922 - 'AKB CARGO BOT'
+2025-11-18 13:07:52,055 - __main__ - INFO - Bot stopped by user
+2025-11-18 13:10:35,433 - __main__ - INFO - Starting polling...
+2025-11-18 13:10:35,433 - __main__ - INFO - Bot is starting...
+2025-11-18 13:10:35,433 - database.db_manager - INFO - Database initialized successfully
+2025-11-18 13:10:35,433 - __main__ - INFO - Database initialized
+2025-11-18 13:10:35,433 - __main__ - INFO - Bot started successfully!
+2025-11-18 13:10:35,433 - aiogram.dispatcher - INFO - Start polling
+2025-11-18 13:10:35,559 - aiogram.dispatcher - INFO - Run polling for bot @akbcargo_bot id=7871329922 - 'AKB CARGO BOT'
+2025-11-18 13:11:11,812 - aiogram.event - INFO - Update id=91511791 is handled. Duration 500 ms by bot id=7871329922
+2025-11-18 13:11:25,539 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-18 13:11:25,539 - __main__ - INFO - Bot is shutting down...
+2025-11-18 13:11:25,793 - aiogram.dispatcher - INFO - Polling stopped for bot @akbcargo_bot id=7871329922 - 'AKB CARGO BOT'
+2025-11-18 13:11:25,793 - __main__ - INFO - Bot stopped by user
